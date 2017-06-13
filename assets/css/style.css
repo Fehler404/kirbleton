@@ -1,0 +1,16 @@
+/*
+* THEME NAME: Kirbleton
+* Copyright 2017, Jona Feucht
+* https://jonafeucht.de
+* VERSION: 1.0.1
+*/
+@import url("https://fonts.googleapis.com/css?family=Droid+Sans|Raleway:400,300,600|Source+Sans+Pro");
+/* Variables */
+/* Intro */
+#intro { color: #333; background-color: #fff; height: 100vh; }
+
+#intro h1 { font-size: 4.2rem; }
+
+#intro h3 { font-size: 3.5rem; }
+
+header { margin-top: 18rem; text-align: center; }

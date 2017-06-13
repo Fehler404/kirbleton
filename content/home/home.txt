@@ -1,0 +1,5 @@
+Title: Kirbleton
+
+----
+
+Text: A Kirby Theme based on the Skeleton Framework.
