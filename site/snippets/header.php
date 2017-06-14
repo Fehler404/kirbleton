@@ -9,6 +9,9 @@
 
   <?php echo css('assets/css/skeleton.css') ?>
   <?php echo css('assets/css/style.css') ?>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+    <script src="assets/js/style.js"></script>
 </head>
 
 <body>
